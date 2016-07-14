@@ -171,8 +171,8 @@ app.service('studentService', ['$q', function ($q) {
         {
             "name": "Kompanets' Nikita",
             "websiteUrl": "https://nikitakompanetc.github.io/sitetry1/",
-            "codeSourceUrl": "",
-            "photo": "images/students/holyk.jpg",
+            "codeSourceUrl": "https://github.com/NikitaKompanetc/sitetry1s",
+            "photo": "images/students/kompanets.jpg",
             "cvUrl": ""
         },
         {
