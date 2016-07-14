@@ -79,9 +79,9 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Fitel' Dmytro",
-            "websiteUrl": "https://dmytrofitel.github.io/beyondthisplace/",
-            "codeSourceUrl": "https://github.com/dmytrofitel/beyondthisplace",
-            "photo": "images/students/no-photo.gif",
+            "websiteUrl": "https://dmytrofitel.github.io/myband/",
+            "codeSourceUrl": "https://github.com/dmytrofitel/myband",
+            "photo": "images/students/fitel.jpg",
             "cvUrl": ""
         },
         {
